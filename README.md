@@ -31,15 +31,19 @@
 Quand je ne suis pas en train de debugger une stratégie ou d'explorer un nouveau LLM, vous me trouverez sûrement sur une table de jeu :
 * **Magic the Gathering** (le classique)
 * **La Quatrième Prophétie (T4C)** (pour la nostalgie des premiers MMORPG)
-* **D&D** (parce que tout est une question de jets de dés et de narration)
+* **Donjons & Dragons** (parce que tout est une question de jets de dés et de narration)
 
-### GitHub Stats
+### GitHub Stats 2026
 
-[![François's GitHub stats](https://github-readme-stats.vercel.app/api?username=francois-hacktion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| Catégorie | Stack  |
+| :--- | :--- |
+| **Frontend & UI** | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Infra & Auth** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) |
+| **Activité 2026** | ![Commits](https://img.shields.io/badge/Commits_2026-183-green?style=flat-square&logo=github) |
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 
 - **LinkedIn :** [linkedin.com/in/francois-pannecoucke/](https://www.linkedin.com/in/francois-pannecoucke/)
 - **Web :** [hacktion.fr](https://www.hacktion.fr)
